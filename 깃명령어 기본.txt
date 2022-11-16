@@ -1,0 +1,17 @@
+깃명령어 기본
+
+git remote add origin https://github.com/HannahKim33/test01.git
+
+git add .
+
+git init
+
+git commit -m "first commit"
+
+git config --global user.email "kgukgu33@gmail.com"
+
+git config --global user.name "HannahKim33"
+
+git branch -M main
+
+git push -u origin main
